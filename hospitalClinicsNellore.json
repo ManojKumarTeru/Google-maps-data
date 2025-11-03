@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Century Park Apartment",
+    "rating": 4.3,
+    "reviews": 167,
+    "phone": "N/A",
+    "address": "48, Richmond Rd, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+    "website": "N/A",
+    "type": "Apartment complex",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPhEE17UJj08Cczuy7yyHU4F64RmdRl2Ak0WzcW=w92-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.969907,
+      "longitude": 77.6163241
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Prestige Finsbury Park",
+    "rating": 4.3,
+    "reviews": 571,
+    "phone": "+91 1800 313 0080",
+    "address": "Aerospace Park, near Shell Technologies, KIADB, Gummanahalli, Bagaluru, Bengaluru, Karnataka 562149, India",
+    "website": "https://www.prestigeconstructions.com/residential-projects/bangalore/prestige-finsbury-park?utm_source=Google&utm_medium=GMB",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyyDyn5DYLgzCxq2AlXGdRN-VEJCT477lqBlmWSPgdRXs3lgJqq4HOsPIxbF7x2otap56io0z6zsWJ4v7vzrRqRBbM7gJsh_f0YkcehNcBOB703Tj1cSjTANgiNaMWKgJYgezj_=w163-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 13.1423401,
+      "longitude": 77.6828402
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Sobha Royal Pavilion",
+    "rating": 4.2,
+    "reviews": 578,
+    "phone": "N/A",
+    "address": "Sarjapur Main Rd, behind Rga Tech Park Accenture Technology, Carmelaram, Hadosiddapura, Chikkakannalli, Bengaluru, Karnataka 560035, India",
+    "website": "https://sobharoyalpavilionphase2.in/",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN9vORZeFsDBJH8oX4RfRUopDVGBOQRugLavWyt=w163-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.899636,
+      "longitude": 77.7036116
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Golden Enclave Apartments",
+    "rating": 4.2,
+    "reviews": 126,
+    "phone": "+91 80 2527 4337",
+    "address": "124D, HAL Old Airport Rd, Murugeshpalya, Kaveri Nagar, Bengaluru, Karnataka 560017, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxfu2-43M17LHFOPjBcwxHNi_bzfWE2UW17oLpBQgyUUgI1z-glT9LjB3EuyiiB6fXMiv-U80Z20FEDeyWnzxMcg1aQ348tl31LELszO4elQWWDM4G7FphDElrOYs6MRLz0gfg=w122-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9593856,
+      "longitude": 77.6523479
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Genesis Grande 23/1 (Ultra-Luxury Apartment)",
+    "rating": 4.9,
+    "reviews": 13,
+    "phone": "+91 98450 62810",
+    "address": "Benson A Cross Rd, Byadarahalli, Benson Town, Bengaluru, Karnataka 560046, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP9w35q9jQGfFL3oD1z5QheA2pWef_PW1CfW0Wf=w163-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.999212499999999,
+      "longitude": 77.6027878
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Prestige Falcon City",
+    "rating": 4.5,
+    "reviews": 5138,
+    "phone": "+91 1800 313 0080",
+    "address": "Kanakapura Main Rd, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062, India",
+    "website": "https://www.prestigeconstructions.com/",
+    "type": "Condominium complex",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPM43UDorGTUjrlhXmjTddANZTSl1lPoDwkq0T5=w186-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.8851354,
+      "longitude": 77.56332499999999
+    },
+    "description": "N/A",
+    "service_options": {
+      "onsite_services": true
+    }
+  },
+  {
+    "name": "Shriram Suhaana",
+    "rating": 4.3,
+    "reviews": 1345,
+    "phone": "N/A",
+    "address": "Right on, Doddaballapura Main Rd, Bengaluru, Karnataka 560119, India",
+    "website": "https://www.shriramproperties.com/",
+    "type": "Apartment complex",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxjn9-kXDM_kCu-mykkJgOL2RyZ-yYdDPl28RUhINM1rRBJSyXF77JbRxiolapoy_5vBcbZseioDr97CK-prreQMBHg6VtJb7CYXg9WPjiYmvZ54NMvnaTD_2JC6j6wnIx99nQ=w80-h142-k-no",
+    "gps_coordinates": {
+      "latitude": 13.133435799999999,
+      "longitude": 77.5719963
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Wild Grass Apartments",
+    "rating": 4.2,
+    "reviews": 25,
+    "phone": "N/A",
+    "address": "WJMP+3X9, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560007, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx5NfdTtkUve8RTviYsjjnKtdxNv794u4-emuA_58ZXjyWu30zxhpBa8wUwE6A-c8pwkOtlOXj4i3sBjy3bxrqT-vRfE-HCWgJXFdMLRMzhxAfIfjo3pyJHr27xgMn4p4A7-eXB=w163-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9326625,
+      "longitude": 77.63748439999999
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Malanad Apartments, bangalore",
+    "rating": 4.6,
+    "reviews": 16,
+    "phone": "N/A",
+    "address": "Malnad Appartments, Mysore Rd, beside RVCE, Marutinagar, Mailasandra, Bengaluru, Karnataka 560059, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxo2cbqWWc8EM1uqpHmDAXbqsivpGW_CXpd2czmti1bLCEKlTNWW6F6UXOWusAKxg7xbLkzknEV3X1W3Mp4QsXPMPLwZJoi1TxYHN7U0r1RjhcXiQs_mgS_Ac0HvLIpsBIma3LZ=w123-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9226023,
+      "longitude": 77.49690319999999
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Phoenix Kessaku",
+    "rating": 4.6,
+    "reviews": 106,
+    "phone": "+91 81475 05558",
+    "address": "No. 1, Dr, Dr Rajkumar Rd, opp. Vivekananda College, Rajajinagar, Bengaluru, Karnataka 560010, India",
+    "website": "https://www.kessaku.in/",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMyU_f-ERVtieI7d0lmHd-BOo7nvOtXvdHE--Lw=w163-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 13.009856099999999,
+      "longitude": 77.5533004
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Princess Square Service Apartments ( 3-Star Hotel in Koramangala)",
+    "rating": 4.8,
+    "reviews": 218,
+    "phone": "+91 99164 80390",
+    "address": "No # 28 th, 7th C Cross Rd, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+    "website": "https://www.servicedapartmentinbangalore.com/",
+    "type": "Serviced apartment",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPOWqsRf0w69lMPWemfKUG5ZwgJIc-M5f77XpOj=w138-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9318717,
+      "longitude": 77.624644
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "BEST Apartments",
+    "rating": 4.1,
+    "reviews": 95,
+    "phone": "N/A",
+    "address": "WG7H+8FX, 5th Stage, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",
+    "website": "N/A",
+    "type": "Apartment complex",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzGkPmqRI6nSAjgO_7pJy5PdaQo2okT4cMRAVUl8Dr0zf2yNOWhrsrH4ZinYrpnnZXA0I6psUGxXJbMH2NyfeyxguZuxor1KmjuRpRedlTttYG3asva_j20GvQ0vJ3TMpvvocaF=w80-h106-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9133537,
+      "longitude": 77.5287215
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "La Residence Furnished apartments on Daily rental",
+    "rating": 4.7,
+    "reviews": 17,
+    "phone": "N/A",
+    "address": "Wildflower Hall, 04, Rustam Bagh Main Rd, off HAL Old Airport Road, Rustam Bagh Layout, Bengaluru, Karnataka 560017, India",
+    "website": "N/A",
+    "type": "Furnished apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMS1KITkdl7hfZY2M9fbdCDNPBusIS8L9DobneO=w138-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9579849,
+      "longitude": 77.649486
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "The Promont Tata Housing",
+    "rating": 4.5,
+    "reviews": 565,
+    "phone": "+91 80 4748 5555",
+    "address": "168, 3rd Main Rd, Ittamadu, Banashankari 3rd Stage, Hosakerehalli, Bengaluru, Karnataka 560085, India",
+    "website": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont",
+    "type": "Apartment complex",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN10J6JLpGDfz-PzOV3sMqiEhnz7oY6fh9JSn9e=w165-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.920546799999999,
+      "longitude": 77.5367989
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Pearl nest Apartment - Best Residential Apartments",
+    "rating": 4.8,
+    "reviews": 5,
+    "phone": "+91 98454 32832",
+    "address": "XJP5+RRM, 224, Narayan Pillai St, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP_57Vh5bUYv47pqQtu49gupyRKbRKnE-9XvD-P=w122-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9871606,
+      "longitude": 77.6095787
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Casagrand Keatsway",
+    "rating": 4,
+    "reviews": 152,
+    "phone": "+91 98848 00062",
+    "address": "Geddalahalli, Amam Enclave Layout, Ashwath Nagar, HBR Layout, Bengaluru, Geddalahalli, Karnataka 560077, India",
+    "website": "https://www.casagrand.co.in/residential/ongoing-projects-bangalore-nagavara-jn/casagrand-keatsway/?utm_source=google-keatsway&utm_medium=organic-keatsway&utm_campaign=gmb-keatsway",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOaUcgjh7jzMCtGaBTsz8XSPH9fD--b60f7op2M=w183-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 13.0488669,
+      "longitude": 77.63859529999999
+    },
+    "description": "N/A",
+    "service_options": {
+      "onsite_services": true
+    }
+  },
+  {
+    "name": "Binny Crescent Apartment",
+    "rating": 4.4,
+    "reviews": 99,
+    "phone": "N/A",
+    "address": "16, 1, Benson Cross Rd, Byadarahalli, Benson Town, Bengaluru, Karnataka 560046, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzmKUykxD00WXFzcz7fCeSygT81Wi9ap1agBcZxgQUSEg5-IYVGD7WxSD4QkFpr-hCBDAH-33lSxCKkeiX-WhhR29AM33qYVuKQZZlwzDir8y0E9RVfo5ux7_yvPAfO7QPfCZY=w160-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9992193,
+      "longitude": 77.60181159999999
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Glendale Apartment",
+    "rating": 4.8,
+    "reviews": 12,
+    "phone": "N/A",
+    "address": "2, 14A Cross Rd, Eshwara Layout, Indiranagar, Bengaluru, Karnataka 560008, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSzaXWRaw-CK51h99ZkOUU9q8nkgsB10M6TOl6loV-t9ezixTVRXOpJrxWH2t637pwVMXx31CfjkiRhjUgb_rKmzwJNklgPhSUlR3g2Bn3xQfKYpFK5WdBO6yxeHnIZ9co-_edOhcHP2G0=w138-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 12.974490699999999,
+      "longitude": 77.63457609999999
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Vijay Kiran Apartments",
+    "rating": 4.6,
+    "reviews": 14,
+    "phone": "N/A",
+    "address": "XJ87+C62, Xavier Layout, Victoria Layout, Bengaluru, Karnataka 560047, India",
+    "website": "N/A",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxmSexHWSUu4pl3kcNj4QmyMiiB-lexF5aaB2enbi5jkIh5wE56b74AS1ZUxS0D5gbp6uEVnUfn-PGGGXmazPPgHkzHS2AtCJpX4H_lv1UiehYR6ka38NZL5HavN9zxweTevdwWQA=w80-h177-k-no",
+    "gps_coordinates": {
+      "latitude": 12.9660093,
+      "longitude": 77.6130137
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  },
+  {
+    "name": "Rajinigandha Apartments - Luxury & Premium 3 BHK Apartments/Flats for sale in Bangalore",
+    "rating": 4.8,
+    "reviews": 4,
+    "phone": "+91 97013 62600",
+    "address": "5th Main Rd, opposite v p multizone, Jinkethimmanahalli, NRI Layout, Bengaluru, Karnataka 560016, India",
+    "website": "https://www.rajinigandhaapartment.com/",
+    "type": "Apartment building",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOup8GB8Gg1xd0-uykJdjFA96Uz1tuHBcy8eWIb=w154-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 13.0263043,
+      "longitude": 77.6825128
+    },
+    "description": "N/A",
+    "service_options": "N/A"
+  }
+]
