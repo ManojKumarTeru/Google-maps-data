@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Kennington Lane Cafe",
+    "rating": 4.9,
+    "reviews": 8192,
+    "phone": "+44 20 7735 5853",
+    "address": "383 Kennington Ln, London, SE11 5QY, United Kingdom",
+    "website": "https://cafekenningtonlane.co.uk/",
+    "email": "N/A",
+    "type": "Cafe",
+    "hours": "N/A",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx_9ymK2UZAPJAfu82AvpEuGCn6qGOlDK41ODsxm7dpuM6U5TdGD0e8K-ywfMoeram_XDGK9XORhveZ8RvTfk0teshoSplGVx-sQ7rGtGEoygZFj68UJu0OABlWCkiMfY-CXEg=w122-h92-k-no",
+    "gps_coordinates": {
+      "latitude": 51.4860873,
+      "longitude": -0.1210618
+    },
+    "description": "Long-established family-run daytime cafe. Low-key venue for British classics including fish and chips and roasts, global dishes and breakfast.",
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "delivery": true
+    }
+  }
+]
